@@ -1,7 +1,7 @@
 # Neural-Network-Scratch
 Implementing neural network from scratch to understand it better. It includes the perceptron and the one with hidden layer.
-**Neural Network structure**
-<img src="https://github.com/jubaer-ad/Neural-Network-Scratch/blob/master/nn1.jpg" width="250" height="300" title="Neural Network structure">
+**Neural Network structure**\
+<img src="https://github.com/jubaer-ad/Neural-Network-Scratch/blob/master/nn1.jpg" width="400" height="500" title="Neural Network structure">
 
 **Gradient descent part-1**
 ![Gradient descent part-1](https://github.com/jubaer-ad/Neural-Network-Scratch/blob/master/nn2.jpg)
