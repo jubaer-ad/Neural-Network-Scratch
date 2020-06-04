@@ -16,4 +16,4 @@ Implementing neural network from scratch to understand it better. It includes th
 ![Gradient descent for hidden layer part-2](![Neural Network structure](https://github.com/jubaer-ad/Neural-Network-Scratch/blob/master/nn1.jpg))
 
 **Network Model with hidden layer**
-![Network Model with hidden layer](![Neural Network structure](https://github.com/jubaer-ad/Neural-Network-Scratch/blob/master/nn1.jpg))\
+https://github.com/jubaer-ad/Neural-Network-Scratch/blob/master/nn1.jpg
