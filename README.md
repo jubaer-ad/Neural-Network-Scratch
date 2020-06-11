@@ -1,5 +1,6 @@
 # Neural-Network-Scratch
 Implementing neural network from scratch to understand it better. It includes the perceptron and the one with hidden layer.
+For betterunderstanding follow 3B1B on YouTube.
 **Neural Network structure**\
 <img src="https://github.com/jubaer-ad/Neural-Network-Scratch/blob/master/nn1.jpg" width="400" height="500" title="Neural Network structure">
 
